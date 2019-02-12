@@ -1,6 +1,6 @@
-SOURCE : https://www.kaggle.com/cdc/behavioral-risk-factor-surveillance-system/home
 
-Run the entire code on the browser (you need access to your google account):
+
+# Run the entire code on the browser (you need access to your google account):
 [colabs link](https://colab.research.google.com/github/leexa90/ST5220/blob/master/ST5220.ipynb)
 
 ABSTRACT
@@ -11,3 +11,5 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is the nation's premier s
 Data explanation : codebook15_llcp.pdf
 
 Data used 2015.csv
+
+SOURCE : https://www.kaggle.com/cdc/behavioral-risk-factor-surveillance-system/home
