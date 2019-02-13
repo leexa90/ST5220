@@ -2,6 +2,9 @@
 
 ### Run the entire code on the browser (you need access to your google account): [colabs link, click here ](https://colab.research.google.com/github/leexa90/ST5220/blob/master/ST5220.ipynb)
 
+## Results
+Qualitive variables are affected by sample size, but not quantitive variables, and more questions blocks lead to more precise estimates![Results](./Results.png)
+
 ABSTRACT
 The objective of the BRFSS is to collect uniform, state-specific data on preventive health practices and risk behaviors that are linked to chronic diseases, injuries, and preventable infectious diseases in the adult population. Factors assessed by the BRFSS include tobacco use, health care coverage, HIV/AIDS knowledge or prevention, physical activity, and fruit and vegetable consumption. Data are collected from a random sample of adults (one per household) through a telephone survey.
 
@@ -12,5 +15,3 @@ Data explanation : codebook15_llcp.pdf
 Data used 2015.csv
 
 SOURCE : https://www.kaggle.com/cdc/behavioral-risk-factor-surveillance-system/home
-
-Qualitive variables are affected by sample size, but not quantitive variables, and more questions blocks lead to more precise estimates![Results](./Results.png)
