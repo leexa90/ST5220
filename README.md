@@ -12,3 +12,5 @@ Data explanation : codebook15_llcp.pdf
 Data used 2015.csv
 
 SOURCE : https://www.kaggle.com/cdc/behavioral-risk-factor-surveillance-system/home
+
+Qualitive variables are affected by sample size, but not quantitive variables, and more questions blocks lead to more precise estimates![Results](./Results.png)
