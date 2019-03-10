@@ -1,11 +1,11 @@
-# Introduction
-Split surveys are used when there are too many survey questions to ask an individual. In this quick study i did for a class project, i intend to split the survey into 15 blocks, and administered 2-4 blocks onto each participant. The missing responses due to the split-survey design are imputed(filled in) via MICE algorithm. This simple experiment studies effect of survey sample size and number of question administered and the quality of the imputation obtain.
+## Introduction
+Split surveys are used when there are too many survey questions to administer due to respondent fatigue. In this quick study , i splitted the survey into 15 blocks each with 20 survey questions, and administered 2-4 blocks onto each participant. The missing responses due to the split-survey design are imputed(filled in) via MICE algorithm. This simple experiment studies the effect of survey sample size and number of question administered and the quality of the imputation obtain.
 
-### Run the entire code on the browser (you need access to your google account): [colabs link, click here ](https://colab.research.google.com/github/leexa90/ST5220/blob/master/ST5220.ipynb)
-
-### Results
+## Results
 ![Results](./Results.png)
 Qualitive variables are affected by sample size, but not quantitive variables, and more questions blocks lead to more precise estimates
+
+### Run the entire code on the browser (you need access to your google account): [colabs link, click here ](https://colab.research.google.com/github/leexa90/ST5220/blob/master/ST5220.ipynb)
 
 #### ABSTRACT
 The objective of the BRFSS is to collect uniform, state-specific data on preventive health practices and risk behaviors that are linked to chronic diseases, injuries, and preventable infectious diseases in the adult population. Factors assessed by the BRFSS include tobacco use, health care coverage, HIV/AIDS knowledge or prevention, physical activity, and fruit and vegetable consumption. Data are collected from a random sample of adults (one per household) through a telephone survey.
