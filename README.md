@@ -1,5 +1,6 @@
 ## Introduction
-Split surveys are used when there are too many survey questions to administer due to respondent fatigue. In this quick study , i splitted the survey into 15 blocks each with 20 survey questions, and administered 2-4 blocks onto each participant. The missing responses due to the split-survey design are imputed(filled in) via MICE algorithm. This simple experiment studies the effect of survey sample size and number of question administered and the quality of the imputation obtain.
+   Split surveys are used when there are too many survey questions to administer due to respondent fatigue. In this quick study , i splitted the survey into 15 blocks each with 20 survey questions and administered 2-4 blocks onto each participant. The missing responses due to the split-survey design are imputed(filled in) via the MICE algorithm.
+   To benchmark this approach, I applied the methodology on a survey dataset with 400K respondants and 300 questions.This simple experiment studies the effect of survey sample size and number of question administered and the quality of the imputation obtain.
 
 ## Results
 ![Results](./Results.png)
